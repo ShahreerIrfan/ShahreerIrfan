@@ -6,6 +6,17 @@ I'm a passionate web application developer who loves turning ideas into vibrant 
 
 - 🌐 **Working on My Own Social Media** - A cutting-edge web application that connects people, shares moments, and fosters community engagement. Stay tuned for updates!
 
+## 💡 Problem Solver
+
+<div align="center">
+  
+![Problem Solver](https://img.shields.io/badge/Problem_Solver-008000?style=for-the-badge&logo=codeforces&logoColor=white)
+
+</div>
+
+- 💡 **Problem Solving:** Passionate about solving complex problems and optimizing solutions.
+- ⌨️ **Competitive Programming:** Enthusiastic participant in competitive programming contests, continuously honing algorithmic and data structure skills.
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -22,11 +33,6 @@ I'm a passionate web application developer who loves turning ideas into vibrant 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=black) 
 
 </div>
-
-## 💡 Problem Solver and Competitive Programmer
-
-- 💡 **Problem Solving:** Passionate about solving complex problems and optimizing solutions.
-- ⌨️ **Competitive Programming:** Enthusiastic participant in competitive programming contests, continuously honing algorithmic and data structure skills.
 
 ## 📈 GitHub Stats
 
