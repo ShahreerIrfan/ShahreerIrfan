@@ -20,20 +20,26 @@ I'm a passionate web application developer who loves turning ideas into function
 
 ## 🚀 Featured Projects
 
-### 🌟 [Project 1: My Own Social Media](#)
+<div align="center">
+
+[![My Own Social Media](https://img.shields.io/badge/My_Own_Social_Media-critical?style=for-the-badge&logo=react)](#) [![Cool Portfolio Website](https://img.shields.io/badge/Cool_Portfolio_Website-informational?style=for-the-badge&logo=html5)](#) [![Innovative Blog Platform](https://img.shields.io/badge/Innovative_Blog_Platform-success?style=for-the-badge&logo=django)](#)
+
+</div>
+
+### 🌟 My Own Social Media
 **Description:** A cutting-edge social media platform connecting people and fostering community engagement. Share moments, connect with friends, and explore a new way of socializing!
 
 ![My Own Social Media Demo](https://example.com/my-social-media-demo.gif)
 
-### 🚀 [Project 2: Cool Portfolio Website](#)
+### 🚀 Cool Portfolio Website
 **Description:** This project serves as my personal portfolio website. Explore its sleek design, responsive layout, and the technologies utilized. Check out the live demo!
 
-![Project 2 Demo](https://example.com/your-demo.gif)
+![Cool Portfolio Website Demo](https://example.com/cool-portfolio-demo.gif)
 
-### ✨ [Project 3: Innovative Blog Platform](#)
+### ✨ Innovative Blog Platform
 **Description:** Revolutionize content creation with this blog platform. Discuss the technologies behind it, the user-friendly interface, and any unique functionalities. Share a link to the live version for others to explore.
 
-![Project 3 Demo](https://example.com/your-demo.gif)
+![Innovative Blog Platform Demo](https://example.com/innovative-blog-demo.gif)
 
 ## 📬 Let's Connect
 
