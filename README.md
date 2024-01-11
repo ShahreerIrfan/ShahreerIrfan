@@ -18,8 +18,8 @@ I'm a passionate web application developer who loves turning ideas into vibrant 
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  
+<div align="center" style="background-color: #2D2D2D; padding: 20px; border-radius: 8px;">
+
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahreerirfan&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahreerirfan&show_icons=true&theme=dark)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahreerirfan&layout=compact&theme=dark)
