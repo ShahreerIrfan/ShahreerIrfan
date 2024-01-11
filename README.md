@@ -14,9 +14,13 @@ I'm a passionate web application developer who loves turning ideas into function
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahreerirfan&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahreerirfan&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahreerirfan&layout=compact&theme=dark)
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahreerirfan&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahreerirfan&show_icons=true&theme=dark)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahreerirfan&layout=compact&theme=dark)
+
+</div>
 
 ## 🚀 Featured Projects
 
@@ -43,8 +47,10 @@ I'm a passionate web application developer who loves turning ideas into function
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MD_Shahreer_Irfan-blue?style=for-the-badge&logo=linkedin)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-@YourTwitterHandle-blue?style=for-the-badge&logo=twitter)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-green?style=for-the-badge)](#)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MD_Shahreer_Irfan-blue?style=for-the-badge&logo=linkedin)](#) [![Twitter](https://img.shields.io/badge/Twitter-@YourTwitterHandle-blue?style=for-the-badge&logo=twitter)](#) [![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-green?style=for-the-badge)](#)
+
+</div>
 
 Let's build something amazing together! 💻✨
