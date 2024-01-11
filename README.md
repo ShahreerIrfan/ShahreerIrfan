@@ -24,10 +24,6 @@ I'm a passionate web application developer who loves turning ideas into function
 ## GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahreerirfan)](https://github.com/DenverCoder1/github-readme-streak-stats)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahreerirfan&theme=github)
-
-## Additional GitHub Stats
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahreerirfan&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahreerirfan&layout=compact&theme=radical)
 
