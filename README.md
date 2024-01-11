@@ -4,7 +4,7 @@ I'm a passionate web application developer who loves turning ideas into function
 
 ## 🚧 Currently Building
 
-- 🌐 Working on [Your Current Project] - A cutting-edge web application that [brief description]. Stay tuned for updates!
+- 🌐 Working on **My Own Social Media** - A cutting-edge web application that connects people, shares moments, and fosters community engagement. Stay tuned for updates!
 
 ## 🛠️ Tech Stack
 
@@ -20,10 +20,10 @@ I'm a passionate web application developer who loves turning ideas into function
 
 ## 🚀 Featured Projects
 
-### [Project 1: Awesome Web App](#)
-🌟 **Awesome Web App** - Brief description of this amazing project. Highlight key features, technologies used, and any notable achievements. Add an eye-catching image or GIF to showcase the project in action!
+### [Project 1: My Own Social Media](#)
+🌟 **My Own Social Media** - A cutting-edge social media platform connecting people and fostering community engagement. Share moments, connect with friends, and explore a new way of socializing!
 
-  ![Project 1 Demo](https://example.com/your-demo.gif)
+  ![My Own Social Media Demo](https://example.com/my-social-media-demo.gif)
 
 ### [Project 2: Cool Portfolio Website](#)
 🚀 **Cool Portfolio Website** - This project serves as my personal portfolio website. Explore its sleek design, responsive layout, and the technologies utilized. Check out the live demo!
