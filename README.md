@@ -30,7 +30,7 @@ I'm a passionate web application developer who loves turning ideas into vibrant 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=black) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=black) 
 
 </div>
 
@@ -58,3 +58,21 @@ I'm a passionate web application developer who loves turning ideas into vibrant 
 ![My Own Social Media Demo](https://example.com/my-social-media-demo.gif)
 
 ### 🚀 Cool Portfolio Website
+**Description:** This project serves as my personal portfolio website. Explore its sleek design, responsive layout, and the technologies utilized. Check out the live demo!
+
+![Cool Portfolio Website Demo](https://example.com/cool-portfolio-demo.gif)
+
+### ✨ Innovative Blog Platform
+**Description:** Revolutionize content creation with this blog platform. Discuss the technologies behind it, the user-friendly interface, and any unique functionalities. Share a link to the live version for others to explore.
+
+![Innovative Blog Platform Demo](https://example.com/innovative-blog-demo.gif)
+
+## 📬 Let's Connect
+
+<div align="center" style="background-color: #3F51B5; padding: 20px; border-radius: 8px;">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MD_Shahreer_Irfan-blue?style=for-the-badge&logo=linkedin)](#) [![Twitter](https://img.shields.io/badge/Twitter-@YourTwitterHandle-blue?style=for-the-badge&logo=twitter)](#) [![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-green?style=for-the-badge)](#)
+
+</div>
+
+Let's build something amazing together! 💻✨
