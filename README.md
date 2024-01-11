@@ -33,7 +33,7 @@ Feel free to explore my repositories for more incredible projects!
 
 ## 📬 Let's Connect
 
-- [LinkedIn](#)
-- [Twitter](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MD_Shahreer_Irfan-blue?style=for-the-badge&logo=linkedin)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-@YourTwitterHandle-blue?style=for-the-badge&logo=twitter)](#)
 
 Let's build something amazing together! 💻✨
