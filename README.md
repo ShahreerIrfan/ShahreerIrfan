@@ -18,7 +18,7 @@ I'm a passionate web application developer who loves turning ideas into vibrant 
 
 ## 📈 GitHub Stats
 
-<div align="center" style="background-color: #2D2D2D; padding: 20px; border-radius: 8px;">
+<div align="center" style="background-color: #424242; padding: 20px; border-radius: 8px;">
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahreerirfan&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahreerirfan&show_icons=true&theme=dark)
@@ -51,7 +51,7 @@ I'm a passionate web application developer who loves turning ideas into vibrant 
 
 ## 📬 Let's Connect
 
-<div align="center">
+<div align="center" style="background-color: #3F51B5; padding: 20px; border-radius: 8px;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MD_Shahreer_Irfan-blue?style=for-the-badge&logo=linkedin)](#) [![Twitter](https://img.shields.io/badge/Twitter-@YourTwitterHandle-blue?style=for-the-badge&logo=twitter)](#) [![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-green?style=for-the-badge)](#)
 
