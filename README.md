@@ -15,7 +15,8 @@ HTML, CSS, JavaScript, React | Node.js, Express, Django | MongoDB, MySQL, Postgr
 ## 📈 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahreerirfan&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahreerirfan&show_icons=true&theme=react)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahreerirfan&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahreerirfan&layout=compact&theme=dark)
 
 ## 🚀 Featured Projects
 
