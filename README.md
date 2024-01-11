@@ -22,18 +22,18 @@ I'm a passionate web application developer who loves turning ideas into function
 
 ### [Project 1: Awesome Web App](#)
 🌟 **Awesome Web App** - Brief description of this amazing project. Highlight key features, technologies used, and any notable achievements. Add an eye-catching image or GIF to showcase the project in action!
-  
-  ![Project 1 Demo](url-to-demo-gif-or-image)
+
+  ![Project 1 Demo](https://example.com/your-demo.gif)
 
 ### [Project 2: Cool Portfolio Website](#)
 🚀 **Cool Portfolio Website** - This project serves as my personal portfolio website. Explore its sleek design, responsive layout, and the technologies utilized. Check out the live demo!
 
-  ![Project 2 Demo](url-to-demo-gif-or-image)
+  ![Project 2 Demo](https://example.com/your-demo.gif)
 
 ### [Project 3: Innovative Blog Platform](#)
 ✨ **Innovative Blog Platform** - Revolutionize content creation with this blog platform. Discuss the technologies behind it, the user-friendly interface, and any unique functionalities. Share a link to the live version for others to explore.
 
-  ![Project 3 Demo](url-to-demo-gif-or-image)
+  ![Project 3 Demo](https://example.com/your-demo.gif)
 
 ## 📬 Let's Connect
 
