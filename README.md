@@ -1,5 +1,7 @@
 ### Hi there 👋
+## GitHub Stats
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahreerirfan)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--
 **ShahreerIrfan/ShahreerIrfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
