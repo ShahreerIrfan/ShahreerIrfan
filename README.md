@@ -19,9 +19,14 @@ I'm a passionate web application developer who loves turning ideas into vibrant 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=black) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=black) 
 
 </div>
+
+## 💡 Problem Solver and Competitive Programmer
+
+- 💡 **Problem Solving:** Passionate about solving complex problems and optimizing solutions.
+- ⌨️ **Competitive Programming:** Enthusiastic participant in competitive programming contests, continuously honing algorithmic and data structure skills.
 
 ## 📈 GitHub Stats
 
