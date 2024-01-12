@@ -33,25 +33,22 @@ I'm a passionate web application developer who loves turning ideas into vibrant 
 
 ## 📈 GitHub Stats
 
-<div align="center" style="background-color: #424242; padding: 20px; border-radius: 8px;">
+<details>
+  <summary>Click to expand!</summary>
+  <br>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahreerirfan&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahreerirfan&show_icons=true&theme=dark)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahreerirfan&layout=compact&theme=dark)
+  <div align="center" style="background-color: #424242; padding: 20px; border-radius: 8px;">
 
-</div>
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahreerirfan&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahreerirfan&show_icons=true&theme=dark)
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahreerirfan&layout=compact&theme=dark&langs_count=9&exclude_repo=repo1,repo2,repo3) <!-- Adjust langs_count and exclude_repo as needed -->
+
+  </div>
+
+</details>
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-[![My Own Social Media](https://img.shields.io/badge/My_Own_Social_Media-critical?style=for-the-badge&logo=react)](#) [![Cool Portfolio Website](https://img.shields.io/badge/Cool_Portfolio_Website-informational?style=for-the-badge&logo=html5)](#) [![Innovative Blog Platform](https://img.shields.io/badge/Innovative_Blog_Platform-success?style=for-the-badge&logo=django)](#)
-
-</div>
-
-### 🌟 My Own Social Media
-**Description:** A cutting-edge social media platform connecting people and fostering community engagement. Share moments, connect with friends, and explore a new way of socializing!
-
-![My Own Social Media Demo](https://example.com/my-social-media-demo.gif)
-
-Let's build something amazing together! 💻✨
+[![My Own Social Media](https://img.shields.io/badge/My_Own_Social_Media-critical?style=for-the-badge&logo=react)](#) [![Cool Portfolio Website](https
