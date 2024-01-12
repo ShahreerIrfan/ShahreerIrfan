@@ -51,4 +51,13 @@ I'm a passionate web application developer who loves turning ideas into vibrant 
 
 <div align="center">
 
-[![My Own Social Media](https://img.shields.io/badge/My_Own_Social_Media-critical?style=for-the-badge&logo=react)](#) [![Cool Portfolio Website](https
+[![My Own Social Media](https://img.shields.io/badge/My_Own_Social_Media-critical?style=for-the-badge&logo=react)](#) [![Cool Portfolio Website](https://img.shields.io/badge/Cool_Portfolio_Website-informational?style=for-the-badge&logo=html5)](#) [![Innovative Blog Platform](https://img.shields.io/badge/Innovative_Blog_Platform-success?style=for-the-badge&logo=django)](#)
+
+</div>
+
+### 🌟 My Own Social Media
+**Description:** A cutting-edge social media platform connecting people and fostering community engagement. Share moments, connect with friends, and explore a new way of socializing!
+
+![My Own Social Media Demo](https://example.com/my-social-media-demo.gif)
+
+Let's build something amazing together! 💻✨
