@@ -10,7 +10,7 @@ I'm a passionate web application developer who loves turning ideas into vibrant 
 
 <div align="center">
   
-![Problem Solver](https://img.shields.io/badge/Problem_Solver-008000?style=for-the-badge&logo=codeforces&logoColor=white)
+
 
 </div>
 
