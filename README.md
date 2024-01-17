@@ -33,19 +33,14 @@ I'm a passionate web application developer who loves turning ideas into vibrant 
 
 ## 📈 GitHub Stats
 
-<details>
-  <summary>Click to expand!</summary>
-  <br>
+<div align="center" style="background-color: #424242; padding: 20px; border-radius: 8px;">
 
-  <div align="center" style="background-color: #424242; padding: 20px; border-radius: 8px;">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahreerirfan&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahreerirfan&show_icons=true&theme=dark)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahreerirfan&langs_count=12&exclude_lang=html,css&theme=dark&layout=compact&hide_border=true)
 
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahreerirfan&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahreerirfan&show_icons=true&theme=dark)
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahreerirfan&langs_count=12&exclude_lang=html,css&theme=dark&layout=compact&hide_border=true)
+</div>
 
-  </div>
-
-</details>
 ## 🚀 Featured Projects
 
 <div align="center">
