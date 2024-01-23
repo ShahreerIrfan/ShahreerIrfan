@@ -15,7 +15,7 @@ I'm a passionate web application developer who loves turning ideas into vibrant 
 </div>
 
 - 💡 **Problem Solving:** Passionate about solving complex problems and optimizing solutions.
-- ⌨️ **Competitive Programming:** Enthusiastic participant in competitive programming contests, continuously honing algorithmic and data structure skills.
+- ⌨️ **Competitive Programming:** Enthusiastic participant in competitive programming contests, continuously honing algorithmic and data structure skills
 
 ## 🛠️ Tech Stack
 
