@@ -54,4 +54,4 @@ I'm a passionate web application developer who loves turning ideas into vibrant 
 
 ![My Own Social Media Demo](https://example.com/my-social-media-demo.gif)
 
-Let's build something amazing together!. 💻✨
+Let's build something amazing together!💻✨
