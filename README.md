@@ -45,14 +45,13 @@ I'm a passionate web application developer who loves turning ideas into vibrant 
 
 <div align="center">
 
-[![My Own Social Media](https://img.shields.io/badge/My_Own_Social_Media-critical?style=for-the-badge&logo=react)](#) [![Cool Portfolio Website](https://img.shields.io/badge/Cool_Portfolio_Website-informational?style=for-the-badge&logo=html5)](#) [![Innovative Blog Platform](https://img.shields.io/badge/Innovative_Blog_Platform-success?style=for-the-badge&logo=django)](#)
+[![My Own Social Media](https://img.shields.io/badge/My_Own_Social_Media-critical?style=for-the-badge&logo=react)](#) [![Cool Portfolio Website](https://img.shields.io/badge/Cool_Portfolio_Website-informational?style=for-the-badge&logo=html5)](#) [![Innovative Blog Platform](https://img.shields.io/badge/Innovative_Blog_Platform-success?style=for-the-badge&logo=django)](#) [![Multi Vendor E-commerce](https://img.shields.io/badge/Multi_Vendor_E--commerce-important?style=for-the-badge&logo=shopping-cart)](#)
 
 </div>
 
-### 🌟 My Own Social Media
-**Description:** A cutting-edge social media platform connecting people and fostering community engagement. Share moments, connect with friends, and explore a new way of socializing!
+### 🌟 Multi Vendor E-commerce
+**Description:** An e-commerce platform that allows multiple vendors to sell their products on a single platform. Providing a seamless shopping experience for customers while enabling vendors to manage their products efficiently.
 
-![My Own Social Media Demo](https://example.com/my-social-media-demo.gif)
+![Multi Vendor E-commerce Demo](https://example.com/multi-vendor-ecommerce-demo.gif)
 
 Let's build something amazing together!💻✨
-.....
