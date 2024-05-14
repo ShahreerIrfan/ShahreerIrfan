@@ -1,5 +1,5 @@
 # Hi there, I'm MD Shahreer Irfan! 👋
-................. ..
+................. .
 I'm a passionate web application developer who loves turning ideas into vibrant and user-friendly applications. Welcome to my GitHub profile! 🚀
 
 ## 🚧 Currently Building
