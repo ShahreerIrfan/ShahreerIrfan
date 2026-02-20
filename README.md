@@ -1,58 +1,145 @@
-# Hi there, I'm MD Shahreer Irfan! 👋
-................. .......
-I'm a passionate web application developer who loves turning ideas into vibrant and user-friendly applications. Welcome to my GitHub profile! 🚀
+<!-- ========================= -->
+<!--      HERO / INTRO         -->
+<!-- ========================= -->
+
+<h1 align="center">Hi there, I'm <b>MD Shahreer Irfan</b> 👋</h1>
+<p align="center">
+  A passionate <b>Web Application Developer</b> who loves turning ideas into vibrant, user-friendly products.
+</p>
+
+<p align="center">
+  <a href="https://github.com/shahreerirfan">
+    <img src="https://img.shields.io/badge/GitHub-shahreerirfan-181717?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Web%20Apps-0078D4?style=for-the-badge" />
+</p>
+
+<br/>
+
+<!-- ========================= -->
+<!--     CURRENT PROJECT       -->
+<!-- ========================= -->
 
 ## 🚧 Currently Building
+- 🌐 **My Own Social Media** — A modern platform that connects people, shares moments, and fosters community engagement.  
+  **Tech direction:** React / Next.js, Django/Node APIs, real-time features, scalable architecture.
 
-- 🌐 **Working on My Own Social Media** - A cutting-edge web application that connects people, shares moments, and fosters community engagement. Stay tuned for updates!
+<br/>
 
-## 💡 Problem Solver
+<!-- ========================= -->
+<!--       HIGHLIGHTS          -->
+<!-- ========================= -->
 
-<div align="center">
-  
+## 💡 Highlights
+- 💡 **Problem Solving:** Love solving complex problems and optimizing solutions  
+- ⌨️ **Competitive Programming:** Regular practice with algorithms & data structures  
+- 🧩 **Full-stack mindset:** UI polish + backend correctness + clean APIs
 
+<br/>
 
-</div>
-
-- 💡 **Problem Solving:** Passionate about solving complex problems and optimizing solutions.
-- ⌨️ **Competitive Programming:** Enthusiastic participant in competitive programming contests, continuously honing algorithmic and data structure skills
+<!-- ========================= -->
+<!--        TECH STACK         -->
+<!-- ========================= -->
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+</p>
 
-| **🌐 Frontend** | **🚀 Backend** | **🛢️ Database** | **⚙️ Tools** | 
-| --------------- | --------------- | --------------- | ------------ | 
-| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | 
+### 🚀 Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/DRF-Django%20REST%20Framework-0A4D6D?style=for-the-badge"/>
+</p>
 
-| **☁️ Cloud** | **🌐 Frameworks** | **📝 CMS** | **🎨 UI Frameworks** | 
-| ------------ | ----------------- | ---------- | -------------------- | 
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Django Rest Framework](https://img.shields.io/badge/Django_Rest_Framework-0A4D6D?style=for-the-badge&logo=django&logoColor=white) | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) |
+### 🛢️ Database
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff"/>
+</p>
 
-</div>
+### ⚙️ Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff"/>
+</p>
+
+### ☁️ Cloud / Services
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000"/>
+</p>
+
+### 🎨 UI Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff"/>
+</p>
+
+<br/>
+
+<!-- ========================= -->
+<!--        STATS              -->
+<!-- ========================= -->
 
 ## 📈 GitHub Stats
 
-<div align="center" style="background-color: #424242; padding: 20px; border-radius: 8px;">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahreerirfan&theme=dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shahreerirfan&show_icons=true&theme=dark" height="165"/>
+</p>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahreerirfan&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahreerirfan&show_icons=true&theme=dark)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahreerirfan&langs_count=12&exclude_lang=html,css&theme=dark&layout=compact&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahreerirfan&layout=compact&theme=dark&langs_count=12&hide_border=true" height="160"/>
+</p>
 
-</div>
+<br/>
+
+<!-- ========================= -->
+<!--     FEATURED PROJECTS     -->
+<!-- ========================= -->
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-[![My Own Social Media](https://img.shields.io/badge/My_Own_Social_Media-critical?style=for-the-badge&logo=react)](#) [![Cool Portfolio Website](https://img.shields.io/badge/Cool_Portfolio_Website-informational?style=for-the-badge&logo=html5)](#) [![Innovative Blog Platform](https://img.shields.io/badge/Innovative_Blog_Platform-success?style=for-the-badge&logo=django)](#) [![Multi Vendor E-commerce](https://img.shields.io/badge/Multi_Vendor_E--commerce-important?style=for-the-badge&logo=shopping-cart)](#)
-
-</div>
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/My%20Own%20Social%20Media-React%20%7C%20Next.js-ff4d4d?style=for-the-badge&logo=react&logoColor=fff"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Cool%20Portfolio%20Website-Frontend-4aa3ff?style=for-the-badge&logo=html5&logoColor=fff"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Innovative%20Blog%20Platform-Django-2ea44f?style=for-the-badge&logo=django&logoColor=fff"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Multi%20Vendor%20E--commerce-Full%20Stack-f59e0b?style=for-the-badge&logo=shopify&logoColor=fff"/>
+  </a>
+</p>
 
 ### 🌟 Multi Vendor E-commerce
-**Description:** An e-commerce platform that allows multiple vendors to sell their products on a single platform. Providing a seamless shopping experience for customers while enabling vendors to manage their products efficiently.
+**Description:** An e-commerce platform where multiple vendors can sell products in one marketplace.  
+✅ Vendor dashboards • ✅ Product management • ✅ Orders & payments • ✅ Customer-friendly checkout
 
-![Multi Vendor E-commerce Demo](https://example.com/multi-vendor-ecommerce-demo.gif)
+> ⚠️ Replace the demo GIF link with your real project demo (GitHub assets link is best).
 
-Let's build something amazing together!💻✨
-.......
+<br/>
+
+<!-- ========================= -->
+<!--       FOOTER / CTA        -->
+<!-- ========================= -->
+
+<h3 align="center">Let’s build something amazing together 💻</h3>
+<p align="center">
+  <b>Open to internships • Freelance • Collaboration</b>
+</p>
