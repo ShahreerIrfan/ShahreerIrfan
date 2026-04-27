@@ -1,297 +1,241 @@
-<!-- ========================= -->
-<!--        HERO SECTION       -->
-<!-- ========================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:0078D4,100:00C9A7&height=200&section=header&text=MD%20Shahreer%20Irfan&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Problem%20Solver%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descSize=18&descColor=D0E8FF"/>
 
-<h1 align="center">Hi there 👋, I'm <b>MD Shahreer Irfan</b></h1>
-
-<h3 align="center">
-  🚀 Web Application Developer | Full Stack Enthusiast | Problem Solver
-</h3>
-
-<p align="center">
-  I love building modern, scalable, and user-friendly web applications with clean UI, strong backend logic, and real-world business value.
-</p>
-
-<p align="center">
-  <a href="https://github.com/shahreerirfan">
-    <img src="https://img.shields.io/badge/GitHub-shahreerirfan-181717?style=for-the-badge&logo=github" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=🚀+Building+Scalable+Full-Stack+Web+Applications;Next.js+%2B+Django+REST+Framework+Expert;Clean+Code+%7C+Modern+UI+%7C+Real-World+Products;💡+Always+Learning+%7C+Always+Shipping;🤝+Open+To+Internship+%26+Collaboration" alt="Typing SVG" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20To-Collaboration-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Web%20Apps-0078D4?style=for-the-badge" />
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ShahreerIrfan">
+    <img src="https://img.shields.io/badge/GitHub-ShahreerIrfan-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>&nbsp;
+  <a href="mailto:mdshahreerirfan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-mdshahreerirfan-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=shahreerirfan&label=Profile+Views&color=6C63FF&style=for-the-badge"/>&nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+</div>
+
+<br/>
 
 ---
 
-<!-- ========================= -->
-<!--        ABOUT TABLE        -->
-<!-- ========================= -->
-
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
 <table>
-  <tr>
-    <td><b>👤 Name</b></td>
-    <td>MD Shahreer Irfan</td>
-  </tr>
-  <tr>
-    <td><b>💼 Profession</b></td>
-    <td>Web Application Developer</td>
-  </tr>
-  <tr>
-    <td><b>🚀 Current Focus</b></td>
-    <td>Building scalable full-stack web applications</td>
-  </tr>
-  <tr>
-    <td><b>🌱 Currently Learning</b></td>
-    <td>Advanced Next.js, Django REST Framework, System Design, DevOps</td>
-  </tr>
-  <tr>
-    <td><b>🤝 Open For</b></td>
-    <td>Internship, Freelance Work, Collaboration, Open Source</td>
-  </tr>
-  <tr>
-    <td><b>🎯 Goal</b></td>
-    <td>To become a strong full-stack software engineer and build impactful digital products</td>
-  </tr>
+<tr>
+<td width="55%" valign="top">
+
+### ⚡ Quick Facts
+
+| | |
+|---|---|
+| 👤 **Name** | MD Shahreer Irfan |
+| 💼 **Role** | Full Stack Web Developer |
+| 🚀 **Focus** | Scalable apps with Next.js & Django |
+| 🌱 **Learning** | System Design · DevOps · Advanced Next.js |
+| 🏆 **Strengths** | Problem Solving · Fast Learner · Clean UI |
+| 🤝 **Open To** | Internship · Freelance · Open Source |
+| 🎯 **Goal** | Build impactful digital products at scale |
+
+</td>
+<td width="45%" align="center" valign="top">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Coding GIF"/>
+</td>
+</tr>
 </table>
 
 ---
-
-<!-- ========================= -->
-<!--     CURRENT PROJECT       -->
-<!-- ========================= -->
-
-## 🚧 Currently Building
-
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech Direction</th>
-  </tr>
-  <tr>
-    <td><b>🌐 My Own Social Media</b></td>
-    <td>A modern platform for connecting people, sharing moments, and building online communities.</td>
-    <td>React, Next.js, Django/Node APIs, Real-time Features, Scalable Architecture</td>
-  </tr>
-</table>
-
----
-
-<!-- ========================= -->
-<!--       STRENGTHS           -->
-<!-- ========================= -->
-
-## 💪 Strongest Strengths
-
-<table>
-  <tr>
-    <th>Strength</th>
-    <th>Details</th>
-  </tr>
-  <tr>
-    <td><b>🧠 Problem Solving</b></td>
-    <td>I enjoy solving complex problems, debugging issues, and improving application performance.</td>
-  </tr>
-  <tr>
-    <td><b>⚡ Fast Learner</b></td>
-    <td>I can quickly learn new technologies and apply them in real-world projects.</td>
-  </tr>
-  <tr>
-    <td><b>🎨 UI/UX Mindset</b></td>
-    <td>I focus on clean, modern, responsive, and user-friendly interface design.</td>
-  </tr>
-  <tr>
-    <td><b>🔐 Backend Logic</b></td>
-    <td>I understand authentication, APIs, database structure, permissions, and business logic.</td>
-  </tr>
-  <tr>
-    <td><b>🧩 Full-stack Thinking</b></td>
-    <td>I can connect frontend, backend, database, API, and deployment together smoothly.</td>
-  </tr>
-  <tr>
-    <td><b>🏆 Competitive Programming</b></td>
-    <td>I regularly practice algorithms, data structures, and logical thinking.</td>
-  </tr>
-</table>
-
----
-
-<!-- ========================= -->
-<!--        TECH STACK         -->
-<!-- ========================= -->
 
 ## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <th>Category</th>
-    <th>Technologies</th>
-  </tr>
+<div align="center">
 
-  <tr>
-    <td><b>🌐 Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
-      <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff"/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-    </td>
-  </tr>
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-  <tr>
-    <td><b>🚀 Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff"/>
-      <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=fff"/>
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=fff"/>
-      <img src="https://img.shields.io/badge/DRF-Django%20REST%20Framework-0A4D6D?style=for-the-badge"/>
-    </td>
-  </tr>
+### 🎨 UI & Styling
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-  <tr>
-    <td><b>🛢️ Database</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff"/>
-    </td>
-  </tr>
+### ⚙️ Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-  <tr>
-    <td><b>🎨 UI Frameworks</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff"/>
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff"/>
-    </td>
-  </tr>
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-  <tr>
-    <td><b>⚙️ Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff"/>
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff"/>
-    </td>
-  </tr>
+### 🔧 Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-  <tr>
-    <td><b>☁️ Cloud / Services</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=fff"/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000"/>
-    </td>
-  </tr>
-</table>
+### ☁️ Cloud & Services
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
 
 ---
-
-<!-- ========================= -->
-<!--      FEATURED PROJECTS    -->
-<!-- ========================= -->
 
 ## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Key Features</th>
-    <th>Tech</th>
-  </tr>
+<tr>
+<td width="50%" valign="top">
 
-  <tr>
-    <td><b>🛒 Multi Vendor E-commerce</b></td>
-    <td>A marketplace where multiple vendors can sell products online.</td>
-    <td>Vendor Dashboard, Product Management, Orders, Payments, Customer Checkout</td>
-    <td>Next.js, Django DRF, PostgreSQL</td>
-  </tr>
+### 💊 Medicare Pharmacy System
+> Full-featured pharmacy management platform with 4 user roles
 
-  <tr>
-    <td><b>🌐 Social Media Platform</b></td>
-    <td>A modern social platform for users to connect and share posts.</td>
-    <td>User Profiles, Posts, Likes, Comments, Real-time Features</td>
-    <td>React, Next.js, Django/Node</td>
-  </tr>
+**Highlights:**
+- 👥 Admin · Pharmacist · Customer · Delivery portals
+- 🛒 Cart, Checkout & Order Management (৳ BDT)
+- 📋 Prescription Upload & Review Workflow
+- 📊 Admin Dashboard with Charts & Analytics
+- 🔐 JWT Auth with auto token-refresh
 
-  <tr>
-    <td><b>📝 Blog Platform</b></td>
-    <td>A content publishing platform with admin and user features.</td>
-    <td>Articles, Categories, Admin Panel, SEO Friendly Pages</td>
-    <td>Django, DRF, React</td>
-  </tr>
+**Stack:** `Next.js 16` `TypeScript` `Django 5.2` `DRF` `SimpleJWT` `Tailwind v4`
 
-  <tr>
-    <td><b>💼 Portfolio Website</b></td>
-    <td>A clean and professional portfolio website for personal branding.</td>
-    <td>Responsive Design, Project Showcase, Contact Section</td>
-    <td>HTML, CSS, JavaScript, React</td>
-  </tr>
+[![Frontend](https://img.shields.io/badge/Frontend-View_Repo-6C63FF?style=for-the-badge&logo=github)](https://github.com/ShahreerIrfan/pharmacy-frontend)
+[![Backend](https://img.shields.io/badge/Backend-View_Repo-0078D4?style=for-the-badge&logo=github)](https://github.com/ShahreerIrfan/pharmacy-backend)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 Multi-Vendor E-Commerce
+> Marketplace platform for vendors and customers
+
+**Highlights:**
+- 🏪 Vendor Dashboard & Product Management
+- 📦 Order Tracking & Management
+- 💳 Payment Gateway Integration
+- 🛍️ Customer Checkout Flow
+- 🔐 Role-Based Access Control
+
+**Stack:** `Next.js` `Django DRF` `PostgreSQL` `Tailwind CSS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 Blog Platform
+> Content publishing with admin control panel
+
+**Highlights:**
+- ✍️ Rich Article Editor with Categories
+- 🔍 SEO-Friendly Dynamic Pages
+- 🔐 User Authentication & Permissions
+- 👥 Admin Panel for content moderation
+
+**Stack:** `Django` `DRF` `React` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Social Media Platform *(In Progress)*
+> Modern community platform with real-time features
+
+**Highlights:**
+- 👤 User Profiles & Follow System
+- 📸 Post Sharing · Likes · Comments
+- ⚡ Real-Time Notifications via WebSockets
+- 📱 Mobile-First Responsive Design
+
+**Stack:** `Next.js` `Django` `WebSockets` `PostgreSQL`
+
+</td>
+</tr>
 </table>
 
 ---
 
-<!-- ========================= -->
-<!--        GITHUB STATS       -->
-<!-- ========================= -->
+## 📊 GitHub Stats
 
-## 📈 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahreerirfan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahreerirfan&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=shahreerirfan&show_icons=true&theme=tokyonight&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahreerirfan&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahreerirfan&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahreerirfan&layout=compact&theme=tokyonight&langs_count=12&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shahreerirfan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
 
 ---
 
-<!-- ========================= -->
-<!--        WORK STYLE         -->
-<!-- ========================= -->
+## 📈 Contribution Activity
 
-## 🧭 My Working Style
-
-<table>
-  <tr>
-    <td><b>✅ Clean Code</b></td>
-    <td>I try to write readable, reusable, and maintainable code.</td>
-  </tr>
-  <tr>
-    <td><b>✅ Responsive Design</b></td>
-    <td>I build layouts that work beautifully on desktop, tablet, and mobile.</td>
-  </tr>
-  <tr>
-    <td><b>✅ API First Thinking</b></td>
-    <td>I focus on clean API structure, proper response format, and secure authentication.</td>
-  </tr>
-  <tr>
-    <td><b>✅ Real-world Features</b></td>
-    <td>I build features that solve actual user and business problems.</td>
-  </tr>
-</table>
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahreerirfan&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" alt="Contribution Graph"/>
+</div>
 
 ---
 
-<!-- ========================= -->
-<!--        FOOTER CTA         -->
-<!-- ========================= -->
+## 💡 Working Philosophy
 
-<h2 align="center">✨ Let's Build Something Amazing Together ✨</h2>
+<div align="center">
 
-<p align="center">
-  <b>Open to Internship • Freelance Work • Collaboration • Open Source</b>
-</p>
+| Principle | Details |
+|-----------|---------|
+| ✅ **Clean Code** | Readable, reusable, and maintainable — always |
+| ✅ **Responsive First** | Pixel-perfect on desktop, tablet, and mobile |
+| ✅ **API-First Design** | Clean structure, secure auth, proper responses |
+| ✅ **Real-World Thinking** | Build features that solve actual problems |
+| ✅ **Continuous Growth** | Always learning, always shipping |
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C9A7&height=120&section=footer"/>
-</p>
+</div>
+
+---
+
+## 💪 Core Strengths
+
+<div align="center">
+
+```
+🧠  Problem Solving      ████████████████████  Expert
+⚡  Fast Learner         ████████████████████  Expert
+🎨  UI/UX Mindset        ██████████████████░░  Advanced
+🔐  Backend Logic        ██████████████████░░  Advanced
+🧩  Full-Stack Thinking  ████████████████████  Expert
+🏆  Competitive Prog.    ████████████████░░░░  Intermediate
+```
+
+</div>
+
+---
+
+<div align="center">
+  <h2>✨ Let's Build Something Amazing Together ✨</h2>
+  <p><b>Open to Internship &nbsp;•&nbsp; Freelance Work &nbsp;•&nbsp; Collaboration &nbsp;•&nbsp; Open Source</b></p>
+  <br/>
+  <a href="mailto:mdshahreerirfan@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email_Me-mdshahreerirfan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://github.com/ShahreerIrfan">
+    <img src="https://img.shields.io/badge/⭐_Follow_on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:0078D4,100:6C63FF&height=130&section=footer"/>
