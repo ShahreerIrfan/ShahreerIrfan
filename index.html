@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>MD Shahreer Irfan — Full Stack Developer</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Fira+Code:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    *{box-sizing:border-box}
+    body{font-family:'Inter',sans-serif;background:#0a0a14}
+    .mono{font-family:'Fira Code',monospace}
+    @keyframes gradShift{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}
+    .hero-bg{background:linear-gradient(-45deg,#0f0c29,#302b63,#1a1a3e,#0f2027,#1a0533,#16213e);background-size:400% 400%;animation:gradShift 12s ease infinite}
+    @keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+    .cursor{display:inline-block;width:3px;height:1.1em;background:#818cf8;margin-left:3px;vertical-align:middle;animation:blink 1s step-end infinite;border-radius:2px}
+    @keyframes fadeUp{from{opacity:0;transform:translateY(32px)}to{opacity:1;transform:translateY(0)}}
+    .fade-up{opacity:0;animation:fadeUp .7s ease forwards}
+    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+    .float{animation:float 3s ease-in-out infinite}
+    .reveal{opacity:0;transform:translateY(36px);transition:opacity .7s ease,transform .7s ease}
+    .reveal.on{opacity:1;transform:none}
+    ::-webkit-scrollbar{width:5px}
+    ::-webkit-scrollbar-track{background:#0a0a14}
+    ::-webkit-scrollbar-thumb{background:#6366f1;border-radius:4px}
+    .grad-text{background:linear-gradient(135deg,#fff 0%,#a78bfa 45%,#60a5fa 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+    .section-label{background:linear-gradient(135deg,#818cf8,#34d399);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+    .nav-link::after{content:'';display:block;width:0;height:2px;background:#818cf8;transition:width .3s}
+    .nav-link:hover::after{width:100%}
+    .card{border:1px solid rgba(129,140,248,.15);background:rgba(255,255,255,.02);transition:all .3s ease}
+    .card:hover{border-color:rgba(129,140,248,.5);box-shadow:0 0 30px rgba(129,140,248,.2),0 20px 40px rgba(0,0,0,.4);transform:translateY(-5px)}
+    .skill{transition:all .2s ease;cursor:default}
+    .skill:hover{transform:translateY(-3px) scale(1.06);box-shadow:0 6px 20px rgba(129,140,248,.4)}
+    .orb{position:absolute;border-radius:50%;filter:blur(80px);pointer-events:none}
+    #cv{position:fixed;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:0}
+    @keyframes pulse-ring{0%{transform:scale(.9);opacity:.4}70%{transform:scale(1.1);opacity:0}100%{transform:scale(1.1);opacity:0}}
+    .ping{animation:pulse-ring 1.5s ease-out infinite}
+  </style>
+</head>
+<body class="text-gray-100 overflow-x-hidden">
+<canvas id="cv"></canvas>
+
+<!-- NAV -->
+<nav class="fixed top-0 left-0 right-0 z-50 backdrop-blur-xl bg-black/40 border-b border-white/5">
+  <div class="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
+    <span class="mono text-indigo-400 font-bold text-xl">&lt;SI /&gt;</span>
+    <div class="hidden md:flex items-center gap-8">
+      <a href="#about" class="nav-link text-gray-300 hover:text-white text-sm font-medium transition-colors pb-1">About</a>
+      <a href="#skills" class="nav-link text-gray-300 hover:text-white text-sm font-medium transition-colors pb-1">Skills</a>
+      <a href="#projects" class="nav-link text-gray-300 hover:text-white text-sm font-medium transition-colors pb-1">Projects</a>
+      <a href="#stats" class="nav-link text-gray-300 hover:text-white text-sm font-medium transition-colors pb-1">Stats</a>
+      <a href="mailto:mdshahreerirfan@gmail.com" class="bg-indigo-600 hover:bg-indigo-500 text-white text-sm font-semibold px-5 py-2 rounded-xl transition-all hover:scale-105 hover:shadow-lg hover:shadow-indigo-600/30">Contact</a>
+    </div>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section class="hero-bg min-h-screen flex items-center justify-center relative overflow-hidden">
+  <div class="orb w-96 h-96 bg-purple-600/25 top-10 left-0 animate-pulse"></div>
+  <div class="orb w-80 h-80 bg-blue-600/20 bottom-10 right-0 animate-pulse" style="animation-delay:.8s"></div>
+  <div class="orb w-64 h-64 bg-indigo-500/15 top-1/3 left-1/2 -translate-x-1/2"></div>
+  <div class="relative z-10 text-center px-6 max-w-5xl mx-auto">
+    <div class="fade-up inline-flex items-center gap-2 bg-white/5 border border-white/10 rounded-full px-5 py-2 text-sm text-gray-300 mb-10" style="animation-delay:.1s">
+      <span class="relative flex h-2 w-2"><span class="ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"></span><span class="relative inline-flex rounded-full h-2 w-2 bg-green-400"></span></span>
+      Open to Internship &amp; Collaboration
+    </div>
+    <h1 class="fade-up text-6xl md:text-8xl font-black mb-5 grad-text leading-none tracking-tight" style="animation-delay:.2s">MD Shahreer Irfan</h1>
+    <div class="fade-up flex items-center justify-center gap-1 text-xl md:text-2xl text-gray-300 font-medium mb-7 h-9" style="animation-delay:.3s">
+      <span id="typed" class="mono"></span><span class="cursor"></span>
+    </div>
+    <p class="fade-up text-gray-400 text-lg max-w-2xl mx-auto mb-12 leading-relaxed" style="animation-delay:.4s">
+      Building modern, scalable, and user-friendly web applications with clean UI, strong backend logic, and real-world business value.
+    </p>
+    <div class="fade-up flex flex-wrap items-center justify-center gap-4" style="animation-delay:.5s">
+      <a href="#projects" class="group bg-indigo-600 hover:bg-indigo-500 text-white font-semibold px-8 py-3.5 rounded-2xl transition-all hover:scale-105 hover:shadow-2xl hover:shadow-indigo-600/40 flex items-center gap-2">
+        View Projects
+        <svg class="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+      </a>
+      <a href="https://github.com/ShahreerIrfan" target="_blank" class="bg-white/5 hover:bg-white/10 border border-white/10 hover:border-indigo-400/40 text-white font-semibold px-8 py-3.5 rounded-2xl transition-all hover:scale-105 flex items-center gap-2">
+        <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        GitHub
+      </a>
+      <a href="mailto:mdshahreerirfan@gmail.com" class="bg-white/5 hover:bg-white/10 border border-white/10 hover:border-red-400/40 text-white font-semibold px-8 py-3.5 rounded-2xl transition-all hover:scale-105 flex items-center gap-2">
+        <svg class="w-5 h-5 text-red-400" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg>
+        Email Me
+      </a>
+    </div>
+    <div class="fade-up mt-24 flex flex-col items-center gap-2 text-gray-500 text-xs tracking-widest uppercase" style="animation-delay:.7s">
+      <span>Scroll</span>
+      <div class="w-px h-14 bg-gradient-to-b from-indigo-500 to-transparent animate-pulse"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ABOUT -->
+<section id="about" class="py-28 px-6 relative">
+  <div class="max-w-6xl mx-auto">
+    <div class="reveal text-center mb-20">
+      <p class="mono text-indigo-400 text-sm mb-2">// who I am</p>
+      <h2 class="text-5xl font-black section-label">About Me</h2>
+    </div>
+    <div class="reveal grid md:grid-cols-2 gap-14 items-center">
+      <div>
+        <p class="text-gray-300 text-lg leading-relaxed mb-8">
+          I'm a passionate <span class="text-indigo-400 font-semibold">Full Stack Web Developer</span> from Dhaka, Bangladesh. I specialize in building production-ready applications using <span class="text-blue-400 font-semibold">Next.js</span> and <span class="text-emerald-400 font-semibold">Django REST Framework</span> — from database design to pixel-perfect UI.
+        </p>
+        <div class="space-y-3">
+          <div class="flex items-center gap-4 bg-white/3 border border-white/5 rounded-2xl p-4 hover:border-indigo-500/30 transition-all">
+            <div class="w-10 h-10 bg-indigo-600/20 rounded-xl flex items-center justify-center text-xl shrink-0">📍</div>
+            <div><div class="text-xs text-gray-500 uppercase tracking-wider mb-0.5">Location</div><div class="text-gray-200 font-medium">Dhaka, Bangladesh</div></div>
+          </div>
+          <div class="flex items-center gap-4 bg-white/3 border border-white/5 rounded-2xl p-4 hover:border-indigo-500/30 transition-all">
+            <div class="w-10 h-10 bg-blue-600/20 rounded-xl flex items-center justify-center text-xl shrink-0">🎓</div>
+            <div><div class="text-xs text-gray-500 uppercase tracking-wider mb-0.5">Currently Learning</div><div class="text-gray-200 font-medium">System Design · DevOps · Advanced Next.js</div></div>
+          </div>
+          <div class="flex items-center gap-4 bg-white/3 border border-white/5 rounded-2xl p-4 hover:border-indigo-500/30 transition-all">
+            <div class="w-10 h-10 bg-emerald-600/20 rounded-xl flex items-center justify-center text-xl shrink-0">🤝</div>
+            <div><div class="text-xs text-gray-500 uppercase tracking-wider mb-0.5">Open To</div><div class="text-gray-200 font-medium">Internship · Freelance · Open Source</div></div>
+          </div>
+          <div class="flex items-center gap-4 bg-white/3 border border-white/5 rounded-2xl p-4 hover:border-indigo-500/30 transition-all">
+            <div class="w-10 h-10 bg-red-600/20 rounded-xl flex items-center justify-center text-xl shrink-0">✉️</div>
+            <div><div class="text-xs text-gray-500 uppercase tracking-wider mb-0.5">Email</div><div class="text-indigo-400 font-medium">mdshahreerirfan@gmail.com</div></div>
+          </div>
+        </div>
+      </div>
+      <div class="grid grid-cols-2 gap-4">
+        <div class="card rounded-2xl p-7 text-center float" style="animation-delay:0s">
+          <div class="text-5xl font-black text-indigo-400 mb-1">4+</div>
+          <div class="text-gray-500 text-sm">Full-Stack Projects</div>
+        </div>
+        <div class="card rounded-2xl p-7 text-center float" style="animation-delay:.5s">
+          <div class="text-5xl font-black text-blue-400 mb-1">2+</div>
+          <div class="text-gray-500 text-sm">Years Coding</div>
+        </div>
+        <div class="card rounded-2xl p-7 text-center float" style="animation-delay:1s">
+          <div class="text-5xl font-black text-emerald-400 mb-1">10+</div>
+          <div class="text-gray-500 text-sm">Technologies</div>
+        </div>
+        <div class="card rounded-2xl p-7 text-center float" style="animation-delay:1.5s">
+          <div class="text-5xl font-black text-amber-400 mb-1">∞</div>
+          <div class="text-gray-500 text-sm">Commitment</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SKILLS -->
+<section id="skills" class="py-28 px-6" style="background:rgba(255,255,255,.01)">
+  <div class="max-w-6xl mx-auto">
+    <div class="reveal text-center mb-20">
+      <p class="mono text-indigo-400 text-sm mb-2">// what I use</p>
+      <h2 class="text-5xl font-black section-label">Tech Stack</h2>
+    </div>
+    <div class="space-y-12">
+      <div class="reveal">
+        <div class="flex items-center gap-3 mb-5">
+          <div class="w-8 h-px bg-indigo-500"></div>
+          <span class="text-gray-500 text-xs uppercase tracking-widest font-semibold">Frontend</span>
+        </div>
+        <div class="flex flex-wrap gap-3">
+          <span class="skill bg-[#61DAFB]/8 border border-[#61DAFB]/25 text-[#61DAFB] px-4 py-2 rounded-xl text-sm font-medium">⚛ React</span>
+          <span class="skill bg-white/5 border border-white/10 text-white px-4 py-2 rounded-xl text-sm font-medium">▲ Next.js</span>
+          <span class="skill bg-[#3178C6]/10 border border-[#3178C6]/30 text-[#60a5fa] px-4 py-2 rounded-xl text-sm font-medium">TS TypeScript</span>
+          <span class="skill bg-[#F7DF1E]/8 border border-[#F7DF1E]/25 text-[#fde68a] px-4 py-2 rounded-xl text-sm font-medium">JS JavaScript</span>
+          <span class="skill bg-[#E34F26]/10 border border-[#E34F26]/30 text-orange-400 px-4 py-2 rounded-xl text-sm font-medium">◈ HTML5</span>
+          <span class="skill bg-[#1572B6]/10 border border-[#1572B6]/30 text-blue-400 px-4 py-2 rounded-xl text-sm font-medium">◈ CSS3</span>
+          <span class="skill bg-[#06B6D4]/10 border border-[#06B6D4]/30 text-cyan-400 px-4 py-2 rounded-xl text-sm font-medium">🌊 Tailwind CSS</span>
+          <span class="skill bg-[#7952B3]/10 border border-[#7952B3]/30 text-purple-400 px-4 py-2 rounded-xl text-sm font-medium">🅱 Bootstrap</span>
+        </div>
+      </div>
+      <div class="reveal">
+        <div class="flex items-center gap-3 mb-5">
+          <div class="w-8 h-px bg-emerald-500"></div>
+          <span class="text-gray-500 text-xs uppercase tracking-widest font-semibold">Backend</span>
+        </div>
+        <div class="flex flex-wrap gap-3">
+          <span class="skill bg-emerald-900/30 border border-emerald-500/25 text-emerald-400 px-4 py-2 rounded-xl text-sm font-medium">🐍 Django</span>
+          <span class="skill bg-red-900/20 border border-red-500/25 text-red-400 px-4 py-2 rounded-xl text-sm font-medium">🔴 Django REST</span>
+          <span class="skill bg-green-900/20 border border-green-500/25 text-green-400 px-4 py-2 rounded-xl text-sm font-medium">🟢 Node.js</span>
+          <span class="skill bg-white/5 border border-white/10 text-gray-300 px-4 py-2 rounded-xl text-sm font-medium">⚡ Express.js</span>
+        </div>
+      </div>
+      <div class="reveal">
+        <div class="flex items-center gap-3 mb-5">
+          <div class="w-8 h-px bg-blue-500"></div>
+          <span class="text-gray-500 text-xs uppercase tracking-widest font-semibold">Databases</span>
+        </div>
+        <div class="flex flex-wrap gap-3">
+          <span class="skill bg-blue-900/20 border border-blue-500/25 text-blue-400 px-4 py-2 rounded-xl text-sm font-medium">🐘 PostgreSQL</span>
+          <span class="skill bg-cyan-900/20 border border-cyan-500/25 text-cyan-400 px-4 py-2 rounded-xl text-sm font-medium">🐬 MySQL</span>
+          <span class="skill bg-green-900/20 border border-green-500/25 text-green-400 px-4 py-2 rounded-xl text-sm font-medium">🍃 MongoDB</span>
+          <span class="skill bg-white/5 border border-white/10 text-gray-300 px-4 py-2 rounded-xl text-sm font-medium">📦 SQLite</span>
+        </div>
+      </div>
+      <div class="reveal">
+        <div class="flex items-center gap-3 mb-5">
+          <div class="w-8 h-px bg-orange-500"></div>
+          <span class="text-gray-500 text-xs uppercase tracking-widest font-semibold">Tools &amp; Cloud</span>
+        </div>
+        <div class="flex flex-wrap gap-3">
+          <span class="skill bg-orange-900/20 border border-orange-500/25 text-orange-400 px-4 py-2 rounded-xl text-sm font-medium">🔀 Git</span>
+          <span class="skill bg-white/5 border border-white/10 text-gray-300 px-4 py-2 rounded-xl text-sm font-medium">🐙 GitHub</span>
+          <span class="skill bg-blue-900/20 border border-blue-500/25 text-blue-400 px-4 py-2 rounded-xl text-sm font-medium">🐳 Docker</span>
+          <span class="skill bg-yellow-900/20 border border-yellow-500/25 text-yellow-400 px-4 py-2 rounded-xl text-sm font-medium">☁ AWS</span>
+          <span class="skill bg-yellow-900/20 border border-orange-400/25 text-orange-300 px-4 py-2 rounded-xl text-sm font-medium">🔥 Firebase</span>
+          <span class="skill bg-white/5 border border-white/10 text-gray-300 px-4 py-2 rounded-xl text-sm font-medium">▲ Vercel</span>
+          <span class="skill bg-orange-900/20 border border-orange-500/25 text-orange-400 px-4 py-2 rounded-xl text-sm font-medium">📮 Postman</span>
+          <span class="skill bg-indigo-900/20 border border-indigo-500/25 text-indigo-400 px-4 py-2 rounded-xl text-sm font-medium">💻 VS Code</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PROJECTS -->
+<section id="projects" class="py-28 px-6">
+  <div class="max-w-6xl mx-auto">
+    <div class="reveal text-center mb-20">
+      <p class="mono text-indigo-400 text-sm mb-2">// what I've built</p>
+      <h2 class="text-5xl font-black section-label">Featured Projects</h2>
+    </div>
+    <div class="grid md:grid-cols-2 gap-6">
+
+      <div class="reveal card rounded-2xl p-7">
+        <div class="flex items-start justify-between mb-5">
+          <span class="text-4xl">💊</span>
+          <div class="flex gap-2">
+            <a href="https://github.com/ShahreerIrfan/pharmacy-frontend" target="_blank" class="text-xs bg-indigo-600/20 border border-indigo-500/30 text-indigo-300 px-3 py-1.5 rounded-lg hover:bg-indigo-600/40 transition-all font-medium">Frontend</a>
+            <a href="https://github.com/ShahreerIrfan/pharmacy-backend" target="_blank" class="text-xs bg-blue-600/20 border border-blue-500/30 text-blue-300 px-3 py-1.5 rounded-lg hover:bg-blue-600/40 transition-all font-medium">Backend</a>
+          </div>
+        </div>
+        <h3 class="text-xl font-bold text-white mb-2">Medicare Pharmacy System</h3>
+        <p class="text-gray-400 text-sm mb-5 leading-relaxed">Full-featured pharmacy platform with 4 role-based portals — Admin, Pharmacist, Customer, and Delivery.</p>
+        <ul class="space-y-1.5 mb-6">
+          <li class="text-gray-400 text-xs flex items-center gap-2"><span class="text-indigo-400 font-bold">▸</span> JWT Auth with auto token-refresh</li>
+          <li class="text-gray-400 text-xs flex items-center gap-2"><span class="text-indigo-400 font-bold">▸</span> Cart, Checkout &amp; Order Management</li>
+          <li class="text-gray-400 text-xs flex items-center gap-2"><span class="text-indigo-400 font-bold">▸</span> Admin Dashboard with Charts &amp; Analytics</li>
+          <li class="text-gray-400 text-xs flex items-center gap-2"><span class="text-indigo-400 font-bold">▸</span> Prescription Upload &amp; Review Workflow</li>
+        </ul>
+        <div class="flex flex-wrap gap-2">
+          <span class="text-xs bg-white/5 text-gray-400 px-2.5 py-1 rounded-lg mono">Next.js 16</span>
+          <span class="text-xs bg-white/5 text-gray-400 px-2.5 py-1 rounded-lg mono">TypeScript</span>
+          <span class="text-xs bg-white/5 text-gray-400 px-2.5 py-1 rounded-lg mono">Django 5.2</span>
+          <span class="text-xs bg-white/5 text-gray-400 px-2.5 py-1 rounded-lg mono">DRF</span>
+          <span class="text-xs bg-white/5 text-gray-400 px-2.5 py-1 rounded-lg mono">Tailwind v4</span>
+        </div>
+      </div>
+
+      <div class="reveal card rounded-2xl p-7">
+        <div class="flex items-start justify-between mb-5">
+          <span class="text-4xl">🛒</span>
+          <span class="text-xs bg-emerald-600/20 border border-emerald-500/30 text-emerald-400 px-3 py-1.5 rounded-lg font-medium">Completed</span>
+        </div>
+        <h3 class="text-xl font-bold text-white mb-2">Multi-Vendor E-Commerce</h3>
+        <p class="text-gray-400 text-sm mb-5 leading-relaxed">A marketplace platform where multiple vendors can list and sell products with smooth customer checkout.</p>
+        <ul class="space-y-1.5 mb-6">
+          <li class="text-gray-400 text-xs flex items-center gap-2"><span class="text-emerald-400 font-bold">▸</span> Vendor Dashboard &amp; Product Management</li>
+          <li class="text-gray-400 text-xs flex items-center gap-2"><span class="text-emerald-400 font-bold">▸</span> Order Tracking &amp; Payment Integration</li>
+          <li class="text-gray-400 text-xs flex items-center gap-2"><span class="text-emerald-400 font-bold">▸</span> Role-Based Access Control</li>
+        </ul>
+        <div class="flex flex-wrap gap-2">
+          <span class="text-xs bg-white/5 text-gray-400 px-2.5 py-1 rounded-lg mono">Next.js</span>
+          <span class="text-xs bg-white/5 text-gray-400 px-2.5 py-1 rounded-lg mono">Django DRF</span>
+          <span class="text-xs bg-white/5 text-gray-400 px-2.5 py-1 rounded-lg mono">PostgreSQL</span>
+        </div>
+      </div>
+
+      <div class="reveal card rounded-2xl p-7">
+        <div class="flex items-start justify-between mb-5">
+          <span class="text-4xl">📝</span>
+          <span class="text-xs bg-blue-600/20 border border-blue-500/30 text-blue-400 px-3 py-1.5 rounded-lg font-medium">Completed</span>
+        </div>
+        <h3 class="text-xl font-bold text-white mb-2">Blog Platform</h3>
+        <p class="text-gray-400 text-sm mb-5 leading-relaxed">Content publishing platform with rich editor, SEO-friendly pages, and powerful admin control panel.</p>
+        <ul class="space-y-1.5 mb-6">
+          <li class="text-gray-400 text-xs flex items-center gap-2"><span class="text-blue-400 font-bold">▸</span> Rich Article Editor with Categories</li>
+          <li class="text-gray-400 text-xs flex items-center gap-2"><span class="text-blue-400 font-bold">▸</span> SEO-Friendly Dynamic Pages</li>
+          <li class="text-gray-400 text-xs flex items-center gap-2"><span class="text-blue-400 font-bold">▸</span> User Authentication &amp; Permissions</li>
+        </ul>
+        <div class="flex flex-wrap gap-2">
+          <span class="text-xs bg-white/5 text-gray-400 px-2.5 py-1 rounded-lg mono">Django</span>
+          <span class="text-xs bg-white/5 text-gray-400 px-2.5 py-1 rounded-lg mono">DRF</span>
+          <span class="text-xs bg-white/5 text-gray-400 px-2.5 py-1 rounded-lg mono">React</span>
+          <span class="text-xs bg-white/5 text-gray-400 px-2.5 py-1 rounded-lg mono">PostgreSQL</span>
+        </div>
+      </div>
+
+      <div class="reveal card rounded-2xl p-7 relative overflow-hidden">
+        <div class="absolute top-0 right-0 w-40 h-40 bg-yellow-500/5 rounded-full blur-3xl pointer-events-none"></div>
+        <div class="flex items-start justify-between mb-5">
+          <span class="text-4xl">🌐</span>
+          <span class="text-xs bg-yellow-600/20 border border-yellow-500/30 text-yellow-400 px-3 py-1.5 rounded-lg font-medium animate-pulse">In Progress</span>
+        </div>
+        <h3 class="text-xl font-bold text-white mb-2">Social Media Platform</h3>
+        <p class="text-gray-400 text-sm mb-5 leading-relaxed">A modern community platform with real-time notifications and mobile-first design.</p>
+        <ul class="space-y-1.5 mb-6">
+          <li class="text-gray-400 text-xs flex items-center gap-2"><span class="text-yellow-400 font-bold">▸</span> User Profiles &amp; Follow System</li>
+          <li class="text-gray-400 text-xs flex items-center gap-2"><span class="text-yellow-400 font-bold">▸</span> Real-Time Notifications via WebSockets</li>
+          <li class="text-gray-400 text-xs flex items-center gap-2"><span class="text-yellow-400 font-bold">▸</span> Post Sharing · Likes · Comments</li>
+        </ul>
+        <div class="flex flex-wrap gap-2">
+          <span class="text-xs bg-white/5 text-gray-400 px-2.5 py-1 rounded-lg mono">Next.js</span>
+          <span class="text-xs bg-white/5 text-gray-400 px-2.5 py-1 rounded-lg mono">Django</span>
+          <span class="text-xs bg-white/5 text-gray-400 px-2.5 py-1 rounded-lg mono">WebSockets</span>
+          <span class="text-xs bg-white/5 text-gray-400 px-2.5 py-1 rounded-lg mono">PostgreSQL</span>
+        </div>
+      </div>
+
+    </div>
+    <div class="reveal text-center mt-10">
+      <a href="https://github.com/ShahreerIrfan?tab=repositories" target="_blank" class="inline-flex items-center gap-2 text-indigo-400 hover:text-indigo-300 font-semibold border border-indigo-500/30 hover:border-indigo-400/60 rounded-2xl px-7 py-3 hover:bg-indigo-500/10 transition-all">
+        View All Repos
+        <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/></svg>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- STATS -->
+<section id="stats" class="py-28 px-6" style="background:rgba(255,255,255,.01)">
+  <div class="max-w-6xl mx-auto">
+    <div class="reveal text-center mb-20">
+      <p class="mono text-indigo-400 text-sm mb-2">// my activity</p>
+      <h2 class="text-5xl font-black section-label">GitHub Stats</h2>
+    </div>
+    <div class="reveal grid md:grid-cols-2 gap-5 mb-5">
+      <div class="rounded-2xl overflow-hidden border border-white/5 hover:border-indigo-500/30 transition-all hover:scale-[1.02]">
+        <img src="https://github-readme-stats.vercel.app/api?username=shahreerirfan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a14" alt="Stats" class="w-full"/>
+      </div>
+      <div class="rounded-2xl overflow-hidden border border-white/5 hover:border-indigo-500/30 transition-all hover:scale-[1.02]">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahreerirfan&theme=tokyonight&hide_border=true&background=0a0a14" alt="Streak" class="w-full"/>
+      </div>
+    </div>
+    <div class="reveal mb-5">
+      <div class="rounded-2xl overflow-hidden border border-white/5 hover:border-indigo-500/30 transition-all">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahreerirfan&theme=tokyo-night&hide_border=true&area=true&bg_color=0a0a14" alt="Activity" class="w-full"/>
+      </div>
+    </div>
+    <div class="reveal flex justify-center">
+      <div class="rounded-2xl overflow-hidden border border-white/5">
+        <img src="https://github-profile-trophy.vercel.app/?username=shahreerirfan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="py-28 px-6 relative overflow-hidden">
+  <div class="absolute inset-0 bg-gradient-to-b from-transparent via-indigo-900/8 to-transparent pointer-events-none"></div>
+  <div class="orb w-96 h-96 bg-indigo-600/10 top-0 left-1/4"></div>
+  <div class="orb w-80 h-80 bg-purple-600/10 bottom-0 right-1/4"></div>
+  <div class="reveal max-w-3xl mx-auto text-center relative z-10">
+    <h2 class="text-5xl md:text-6xl font-black mb-6">
+      <span class="grad-text">Let's Build Something</span><br/>
+      <span class="text-white">Amazing Together</span>
+    </h2>
+    <p class="text-gray-400 text-xl mb-12">Open to Internship &nbsp;·&nbsp; Freelance Work &nbsp;·&nbsp; Collaboration &nbsp;·&nbsp; Open Source</p>
+    <div class="flex flex-wrap justify-center gap-5">
+      <a href="mailto:mdshahreerirfan@gmail.com" class="bg-indigo-600 hover:bg-indigo-500 text-white font-bold px-10 py-4 rounded-2xl transition-all hover:scale-105 hover:shadow-2xl hover:shadow-indigo-600/40 text-lg flex items-center gap-2">📧 Get In Touch</a>
+      <a href="https://github.com/ShahreerIrfan" target="_blank" class="bg-white/5 hover:bg-white/10 border border-white/10 hover:border-indigo-400/40 text-white font-bold px-10 py-4 rounded-2xl transition-all hover:scale-105 text-lg flex items-center gap-2">⭐ Follow on GitHub</a>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="border-t border-white/5 py-10 text-center">
+  <p class="mono text-gray-600 text-sm">&lt;built with ❤️ by <span class="text-indigo-400">ShahreerIrfan</span> · 2026 /&gt;</p>
+</footer>
+
+<script>
+// Typing effect
+const titles=['Full Stack Web Developer','Next.js + Django Expert','Problem Solver','Open Source Enthusiast','Building Real-World Apps'];
+let ti=0,ci=0,del=false;
+const el=document.getElementById('typed');
+function type(){
+  const t=titles[ti];
+  if(!del){el.textContent=t.slice(0,++ci);if(ci===t.length){del=true;setTimeout(type,2200);return;}}
+  else{el.textContent=t.slice(0,--ci);if(ci===0){del=false;ti=(ti+1)%titles.length;}}
+  setTimeout(type,del?35:75);
+}
+type();
+
+// Scroll reveal
+const obs=new IntersectionObserver(entries=>entries.forEach((e,i)=>{
+  if(e.isIntersecting){e.target.style.transitionDelay=(i%4)*.12+'s';e.target.classList.add('on');}
+}),{threshold:.08});
+document.querySelectorAll('.reveal').forEach(el=>obs.observe(el));
+
+// Floating particles
+const cv=document.getElementById('cv'),c=cv.getContext('2d');
+function resize(){cv.width=innerWidth;cv.height=innerHeight;}resize();
+window.addEventListener('resize',resize);
+const pts=Array.from({length:55},()=>({x:Math.random()*innerWidth,y:Math.random()*innerHeight,r:Math.random()*1.4+.4,dx:(Math.random()-.5)*.25,dy:(Math.random()-.5)*.25,a:Math.random()*.45+.08}));
+function draw(){
+  c.clearRect(0,0,cv.width,cv.height);
+  pts.forEach(p=>{
+    p.x+=p.dx;p.y+=p.dy;
+    if(p.x<0)p.x=cv.width;if(p.x>cv.width)p.x=0;
+    if(p.y<0)p.y=cv.height;if(p.y>cv.height)p.y=0;
+    c.beginPath();c.arc(p.x,p.y,p.r,0,Math.PI*2);
+    c.fillStyle=`rgba(99,102,241,${p.a})`;c.fill();
+  });
+  requestAnimationFrame(draw);
+}
+draw();
+
+// Smooth scroll
+document.querySelectorAll('a[href^="#"]').forEach(a=>a.addEventListener('click',e=>{
+  e.preventDefault();document.querySelector(a.getAttribute('href'))?.scrollIntoView({behavior:'smooth'});
+}));
+</script>
+</body>
+</html>
