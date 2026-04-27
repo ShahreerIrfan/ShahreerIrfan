@@ -5,6 +5,13 @@
 </div>
 
 ---
+<div align="center">
+  <a href="https://shahreerirfan.github.io/ShahreerIrfan/">
+    <img src="https://img.shields.io/badge/🌐_View_Full_Portfolio-shahreerirfan.github.io-6C63FF?style=for-the-badge&logoColor=white"/>
+  </a>
+</div>
+
+---
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:0078D4,100:00C9A7&height=200&section=header&text=MD%20Shahreer%20Irfan&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Problem%20Solver%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descSize=18&descColor=D0E8FF"/>
 
 <div align="center">
@@ -246,4 +253,5 @@
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:0078D4,100:6C63FF&height=130&section=footer"/>
+
 
